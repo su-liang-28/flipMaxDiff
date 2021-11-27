@@ -12,7 +12,6 @@ Imports: AlgDesign,
          MASS,
          flipData,
          flipFormat,
-         filpU,
          flipTransformations,
          Rcpp (>= 0.12.10),
          rstan
