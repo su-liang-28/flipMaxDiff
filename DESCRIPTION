@@ -13,6 +13,7 @@ Imports: AlgDesign,
          flipData,
          flipFormat,
          flipTransformations,
+         filpU,
          Rcpp (>= 0.12.10),
          rstan
 Suggests: testthat,
